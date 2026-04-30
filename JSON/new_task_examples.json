@@ -1,0 +1,952 @@
+[
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Plotëso: Ai ishte shumë _____ dhe nuk u tremb aspak. (frikacak / trim / i lodhur)"
+      },
+      {
+        "role": "assistant",
+        "content": "Fjala e saktë është \"trim\", sepse fjalia përshkruan dikë që nuk frikësohet fare."
+      }
+    ],
+    "metadata": {
+      "task_type": "fill_in_blank",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.96
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Plotëso: Ne shkuam në treg për të blerë _____ të freskëta. (libra / perime / karrige)"
+      },
+      {
+        "role": "assistant",
+        "content": "Fjala e saktë është \"perime\", sepse vetëm perimet mund të përshkruhen natyrshëm si të freskëta në këtë fjali."
+      }
+    ],
+    "metadata": {
+      "task_type": "fill_in_blank",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.96
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Plotëso: Mësuesja kërkoi që nxënësit të flisnin me zë të _____. (ulët / shpejtë / gjelbër)"
+      },
+      {
+        "role": "assistant",
+        "content": "Fjala e saktë është \"ulët\", sepse shprehja e saktë është \"me zë të ulët\"."
+      }
+    ],
+    "metadata": {
+      "task_type": "fill_in_blank",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.96
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Plotëso: Pas shiut, rruga u bë shumë _____. (e rrëshqitshme / e qetë / e thatë)"
+      },
+      {
+        "role": "assistant",
+        "content": "Fjala e saktë është \"e rrëshqitshme\", sepse shiu zakonisht e bën rrugën të vështirë për t'u ecur."
+      }
+    ],
+    "metadata": {
+      "task_type": "fill_in_blank",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.96
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Plotëso: Gjyshi i tregoi nipit një histori shumë _____. (të mërzitshme / interesante / të zbrazët)"
+      },
+      {
+        "role": "assistant",
+        "content": "Fjala e saktë është \"interesante\", sepse një histori që tregohet me kënaqësi zakonisht është tërheqëse."
+      }
+    ],
+    "metadata": {
+      "task_type": "fill_in_blank",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.96
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Plotëso: Ajo e mbylli dritaren sepse era ishte shumë _____. (e fortë / e ëmbël / e qetë)"
+      },
+      {
+        "role": "assistant",
+        "content": "Fjala e saktë është \"e fortë\", sepse vetëm një erë e fortë do ta shtynte dikë të mbyllte dritaren."
+      }
+    ],
+    "metadata": {
+      "task_type": "fill_in_blank",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.96
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Plotëso: Fëmijët po vraponin _____ drejt shkollës. (ngadalë / shpejt / bosh)"
+      },
+      {
+        "role": "assistant",
+        "content": "Fjala e saktë është \"shpejt\", sepse folja \"vraponin\" lidhet natyrshëm me lëvizje të shpejtë."
+      }
+    ],
+    "metadata": {
+      "task_type": "fill_in_blank",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.96
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Plotëso: Për të arritur sukses, duhet të jesh _____. (i duruar / i heshtur / i ftohtë)"
+      },
+      {
+        "role": "assistant",
+        "content": "Fjala e saktë është \"i duruar\", sepse suksesi zakonisht kërkon kohë, këmbëngulje dhe durim."
+      }
+    ],
+    "metadata": {
+      "task_type": "fill_in_blank",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.96
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Plotëso: Në dimër, mali mbulohet nga _____ e bardhë. (rërë / dëborë / baltë)"
+      },
+      {
+        "role": "assistant",
+        "content": "Fjala e saktë është \"dëborë\", sepse mali në dimër zakonisht mbulohet nga bora."
+      }
+    ],
+    "metadata": {
+      "task_type": "fill_in_blank",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.96
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Plotëso: Para provimit, ajo i përsëriti mësimet me shumë _____. (kujdes / pluhur / dritë)"
+      },
+      {
+        "role": "assistant",
+        "content": "Fjala e saktë është \"kujdes\", sepse mësimet përsëriten me kujdes dhe përqendrim."
+      }
+    ],
+    "metadata": {
+      "task_type": "fill_in_blank",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.96
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Jep lakimin e plotë të emrit: \"mal\""
+      },
+      {
+        "role": "assistant",
+        "content": "Lakimi i emrit \"mal\": Emërore: njëjës mal, shumës male; Gjinore: njëjës i/e malit, shumës i/e maleve; Dhanore: njëjës malit, shumës maleve; Kallëzore: njëjës malin, shumës malet; Rrjedhore: njëjës malit, shumës maleve; Thirror: njëjës o mal, shumës o male."
+      }
+    ],
+    "metadata": {
+      "task_type": "morphological_inflection",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Jep lakimin e plotë të emrit: \"libër\""
+      },
+      {
+        "role": "assistant",
+        "content": "Lakimi i emrit \"libër\": Emërore: njëjës libër, shumës libra; Gjinore: njëjës i/e librit, shumës i/e librave; Dhanore: njëjës librit, shumës librave; Kallëzore: njëjës librin, shumës librat; Rrjedhore: njëjës librit, shumës librave; Thirror: njëjës o libër, shumës o libra."
+      }
+    ],
+    "metadata": {
+      "task_type": "morphological_inflection",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Jep lakimin e plotë të emrit: \"qytet\""
+      },
+      {
+        "role": "assistant",
+        "content": "Lakimi i emrit \"qytet\": Emërore: njëjës qytet, shumës qytete; Gjinore: njëjës i/e qytetit, shumës i/e qyteteve; Dhanore: njëjës qytetit, shumës qyteteve; Kallëzore: njëjës qytetin, shumës qytetet; Rrjedhore: njëjës qytetit, shumës qyteteve; Thirror: njëjës o qytet, shumës o qytete."
+      }
+    ],
+    "metadata": {
+      "task_type": "morphological_inflection",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Jep lakimin e plotë të emrit: \"mësues\""
+      },
+      {
+        "role": "assistant",
+        "content": "Lakimi i emrit \"mësues\": Emërore: njëjës mësues, shumës mësues; Gjinore: njëjës i/e mësuesit, shumës i/e mësuesve; Dhanore: njëjës mësuesit, shumës mësuesve; Kallëzore: njëjës mësuesin, shumës mësuesit; Rrjedhore: njëjës mësuesit, shumës mësuesve; Thirror: njëjës o mësues, shumës o mësues."
+      }
+    ],
+    "metadata": {
+      "task_type": "morphological_inflection",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Jep lakimin e plotë të emrit: \"djalë\""
+      },
+      {
+        "role": "assistant",
+        "content": "Lakimi i emrit \"djalë\": Emërore: njëjës djalë, shumës djem; Gjinore: njëjës i/e djalit, shumës i/e djemve; Dhanore: njëjës djalit, shumës djemve; Kallëzore: njëjës djalin, shumës djemtë; Rrjedhore: njëjës djalit, shumës djemve; Thirror: njëjës o djalë, shumës o djem."
+      }
+    ],
+    "metadata": {
+      "task_type": "morphological_inflection",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Jep lakimin e plotë të emrit: \"mik\""
+      },
+      {
+        "role": "assistant",
+        "content": "Lakimi i emrit \"mik\": Emërore: njëjës mik, shumës miq; Gjinore: njëjës i/e mikut, shumës i/e miqve; Dhanore: njëjës mikut, shumës miqve; Kallëzore: njëjës mikun, shumës miqtë; Rrjedhore: njëjës mikut, shumës miqve; Thirror: njëjës o mik, shumës o miq."
+      }
+    ],
+    "metadata": {
+      "task_type": "morphological_inflection",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Jep lakimin e plotë të emrit: \"det\""
+      },
+      {
+        "role": "assistant",
+        "content": "Lakimi i emrit \"det\": Emërore: njëjës det, shumës dete; Gjinore: njëjës i/e detit, shumës i/e deteve; Dhanore: njëjës detit, shumës deteve; Kallëzore: njëjës detin, shumës detet; Rrjedhore: njëjës detit, shumës deteve; Thirror: njëjës o det, shumës o dete."
+      }
+    ],
+    "metadata": {
+      "task_type": "morphological_inflection",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Jep lakimin e plotë të emrit: \"fshat\""
+      },
+      {
+        "role": "assistant",
+        "content": "Lakimi i emrit \"fshat\": Emërore: njëjës fshat, shumës fshatra; Gjinore: njëjës i/e fshatit, shumës i/e fshatrave; Dhanore: njëjës fshatit, shumës fshatrave; Kallëzore: njëjës fshatin, shumës fshatrat; Rrjedhore: njëjës fshatit, shumës fshatrave; Thirror: njëjës o fshat, shumës o fshatra."
+      }
+    ],
+    "metadata": {
+      "task_type": "morphological_inflection",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Jep lakimin e plotë të emrit: \"student\""
+      },
+      {
+        "role": "assistant",
+        "content": "Lakimi i emrit \"student\": Emërore: njëjës student, shumës studentë; Gjinore: njëjës i/e studentit, shumës i/e studentëve; Dhanore: njëjës studentit, shumës studentëve; Kallëzore: njëjës studentin, shumës studentët; Rrjedhore: njëjës studentit, shumës studentëve; Thirror: njëjës o student, shumës o studentë."
+      }
+    ],
+    "metadata": {
+      "task_type": "morphological_inflection",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Jep lakimin e plotë të emrit: \"gur\""
+      },
+      {
+        "role": "assistant",
+        "content": "Lakimi i emrit \"gur\": Emërore: njëjës gur, shumës gurë; Gjinore: njëjës i/e gurit, shumës i/e gurëve; Dhanore: njëjës gurit, shumës gurëve; Kallëzore: njëjës gurin, shumës gurët; Rrjedhore: njëjës gurit, shumës gurëve; Thirror: njëjës o gur, shumës o gurë."
+      }
+    ],
+    "metadata": {
+      "task_type": "morphological_inflection",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Gjej dhe korrigjo gabimin: \"Ai punonte shum mirë çdo ditë.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Gabimi është \"shum\"; fjalia e saktë është \"Ai punonte shumë mirë çdo ditë.\", sepse ndajfolja \"shumë\" shkruhet me ë në fund."
+      }
+    ],
+    "metadata": {
+      "task_type": "error_correction",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.97
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Gjej dhe korrigjo gabimin: \"Ne shkuam ne bibliotekë dje.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Gabimi është te parafjala \"ne\"; fjalia e saktë është \"Ne shkuam në bibliotekë dje.\", sepse parafjala \"në\" shkruhet me ë."
+      }
+    ],
+    "metadata": {
+      "task_type": "error_correction",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.97
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Gjej dhe korrigjo gabimin: \"Ajo kanë lexuar librin dje.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Gabimi është te forma foljore \"kanë\"; fjalia e saktë është \"Ajo ka lexuar librin dje.\", sepse folja duhet të pajtohet me kryefjalën në njëjës."
+      }
+    ],
+    "metadata": {
+      "task_type": "error_correction",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.97
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Gjej dhe korrigjo gabimin: \"Fëmijët luante në oborr gjithë pasditen.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Gabimi është te forma \"luante\"; fjalia e saktë është \"Fëmijët luanin në oborr gjithë pasditen.\", sepse kryefjala është në shumës."
+      }
+    ],
+    "metadata": {
+      "task_type": "error_correction",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.97
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Gjej dhe korrigjo gabimin: \"Mësuesi tha se provimi eshte nesër.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Gabimi është \"eshte\"; fjalia e saktë është \"Mësuesi tha se provimi është nesër.\", sepse folja \"është\" shkruhet me ë në fillim."
+      }
+    ],
+    "metadata": {
+      "task_type": "error_correction",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.97
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Gjej dhe korrigjo gabimin: \"Unë pash dy zogj në pemë.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Gabimi është \"pash\"; fjalia e saktë është \"Unë pashë dy zogj në pemë.\", sepse veta e parë njëjës e së kryerës së thjeshtë merr mbaresën ë."
+      }
+    ],
+    "metadata": {
+      "task_type": "error_correction",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.97
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Gjej dhe korrigjo gabimin: \"Kjo detyr është shumë e vështirë.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Gabimi është \"detyr\"; fjalia e saktë është \"Kjo detyrë është shumë e vështirë.\", sepse emri \"detyrë\" shkruhet me ë në fund."
+      }
+    ],
+    "metadata": {
+      "task_type": "error_correction",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.97
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Gjej dhe korrigjo gabimin: \"Ata u nisën pa marr çadrat.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Gabimi është \"marr\"; fjalia e saktë është \"Ata u nisën pa marrë çadrat.\", sepse pas \"pa\" përdoret forma e pjesores."
+      }
+    ],
+    "metadata": {
+      "task_type": "error_correction",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.97
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Gjej dhe korrigjo gabimin: \"Dera u hap ngadal dhe pa zhurmë.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Gabimi është \"ngadal\"; fjalia e saktë është \"Dera u hap ngadalë dhe pa zhurmë.\", sepse ndajfolja \"ngadalë\" shkruhet me ë."
+      }
+    ],
+    "metadata": {
+      "task_type": "error_correction",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.97
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Gjej dhe korrigjo gabimin: \"Ne do të vijme më vonë.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Gabimi është \"vijme\"; fjalia e saktë është \"Ne do të vijmë më vonë.\", sepse veta e parë shumës e foljes \"vij\" shkruhet me ë."
+      }
+    ],
+    "metadata": {
+      "task_type": "error_correction",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.97
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rishkruaje këtë fjali në gjuhë të përditshme: \"Kuvendi miraton ligjin me shumicë votash.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Deputetët e miratojnë ligjin kur shumica voton pro."
+      }
+    ],
+    "metadata": {
+      "task_type": "register_transform",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rishkruaje këtë fjali në gjuhë të përditshme: \"Subjekti është i detyruar të paraqesë dokumentacionin përkatës brenda afatit ligjor.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Personi duhet t'i dorëzojë dokumentet e nevojshme brenda afatit të caktuar me ligj."
+      }
+    ],
+    "metadata": {
+      "task_type": "register_transform",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rishkruaje këtë fjali në gjuhë të përditshme: \"Në rast mospërmbushjeje të detyrimit, pala përgjegjëse i nënshtrohet sanksioneve administrative.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Nëse nuk e zbaton detyrimin, pala përgjegjëse mund të marrë dënime administrative."
+      }
+    ],
+    "metadata": {
+      "task_type": "register_transform",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rishkruaje këtë fjali në gjuhë të përditshme: \"Kërkesa shqyrtohet nga organi kompetent në përputhje me dispozitat në fuqi.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Kërkesa shqyrtohet nga institucioni përkatës sipas rregullave që vlejnë tani."
+      }
+    ],
+    "metadata": {
+      "task_type": "register_transform",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rishkruaje këtë fjali në gjuhë të përditshme: \"Kontrata hyn në fuqi në datën e nënshkrimit nga të dyja palët.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Marrëveshja bëhet e vlefshme në ditën kur e nënshkruajnë të dyja palët."
+      }
+    ],
+    "metadata": {
+      "task_type": "register_transform",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rishkruaje këtë fjali në gjuhë të përditshme: \"Mjeti identifikues paraqitet për verifikim pranë autoritetit përkatës.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Dokumenti i identitetit duhet treguar te zyra përkatëse për kontroll."
+      }
+    ],
+    "metadata": {
+      "task_type": "register_transform",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rishkruaje këtë fjali në gjuhë të përditshme: \"Pagesa kryhet nëpërmjet transfertës bankare sipas kushteve të përcaktuara.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Pagesa bëhet me transfertë bankare sipas kushteve të vendosura."
+      }
+    ],
+    "metadata": {
+      "task_type": "register_transform",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rishkruaje këtë fjali në gjuhë të përditshme: \"Të dhënat personale përpunohen vetëm për qëllimet e parashikuara nga legjislacioni.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Të dhënat personale përdoren vetëm për arsyet që i lejon ligji."
+      }
+    ],
+    "metadata": {
+      "task_type": "register_transform",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rishkruaje këtë fjali në gjuhë të përditshme: \"Çdo ankesë depozitohet me shkrim dhe regjistrohet në protokoll.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Çdo ankesë dorëzohet me shkrim dhe regjistrohet zyrtarisht."
+      }
+    ],
+    "metadata": {
+      "task_type": "register_transform",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rishkruaje këtë fjali në gjuhë të përditshme: \"Përfituesi humbet të drejtën nëse deklarimi rezulton i pavërtetë.\""
+      },
+      {
+        "role": "assistant",
+        "content": "Personi e humbet këtë të drejtë nëse del se deklarimi ka qenë i rremë."
+      }
+    ],
+    "metadata": {
+      "task_type": "register_transform",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.95
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Çfarë do të thotë fjala \"blurgh\" në shqip?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nuk e di; a mund të jepni kontekst ose drejtshkrimin e saktë të fjalës?"
+      }
+    ],
+    "metadata": {
+      "task_type": "graceful_refusal",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.93
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Më trego ku ndodhet qyteti \"Larmuq\"."
+      },
+      {
+        "role": "assistant",
+        "content": "Nuk e di ku ndodhet ky vend; a jeni i sigurt për emrin ose mund të jepni më shumë kontekst?"
+      }
+    ],
+    "metadata": {
+      "task_type": "graceful_refusal",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.93
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Cili është shumës i fjalës \"prendok\"?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nuk e di këtë fjalë; a mund të jepni një fjali ku përdoret që ta kuptoj më mirë?"
+      }
+    ],
+    "metadata": {
+      "task_type": "graceful_refusal",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.93
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Përktheje këtë tingull në shqip: \"zzrraap\"."
+      },
+      {
+        "role": "assistant",
+        "content": "Nuk e kuptoj çfarë nënkuptoni me këtë tingull; a mund ta sqaroni ose ta vendosni në një fjali?"
+      }
+    ],
+    "metadata": {
+      "task_type": "graceful_refusal",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.93
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Çfarë ngjyre ka drejtshkrimi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pyetja nuk është e qartë për mua; a mund ta riformuloni se çfarë doni të dini për drejtshkrimin?"
+      }
+    ],
+    "metadata": {
+      "task_type": "graceful_refusal",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.93
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Jep kuptimin juridik të fjalës \"xhufkëlbim\"."
+      },
+      {
+        "role": "assistant",
+        "content": "Nuk e di këtë term; a mund të jepni burimin ose kontekstin ku e keni hasur?"
+      }
+    ],
+    "metadata": {
+      "task_type": "graceful_refusal",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.93
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kush e shkroi librin \"Mbi Retë e Hapura të Qelqit të Hënës\"?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nuk e di cilit libër i referoheni; a mund të jepni autorin, vitin ose ndonjë të dhënë tjetër dalluese?"
+      }
+    ],
+    "metadata": {
+      "task_type": "graceful_refusal",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.93
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "A është folje apo planet fjala \"marnuf\"?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nuk e di këtë fjalë; a mund ta shkruani ndryshe ose të jepni një shembull përdorimi?"
+      }
+    ],
+    "metadata": {
+      "task_type": "graceful_refusal",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.93
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Shpjego ndryshimin mes \"tralem\" dhe \"frusht\"."
+      },
+      {
+        "role": "assistant",
+        "content": "Nuk i njoh këto fjalë; a mund të sillni kontekst ose burimin ku i keni gjetur?"
+      }
+    ],
+    "metadata": {
+      "task_type": "graceful_refusal",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.93
+    }
+  },
+  {
+    "system": "Jeni një asistent gjuhësor shqiptar i specializuar. Përgjigjuni gjithmonë në shqip standard, me saktësi dhe qartësi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Më jep etimologjinë e fjalës \"qrryk\"."
+      },
+      {
+        "role": "assistant",
+        "content": "Nuk e di etimologjinë e kësaj fjale; a mund të jepni burimin ose drejtshkrimin e saktë?"
+      }
+    ],
+    "metadata": {
+      "task_type": "graceful_refusal",
+      "source": "synthetic-expansion-2026",
+      "dialect": "standard",
+      "confidence": 0.93
+    }
+  }
+]
